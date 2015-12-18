@@ -1,2 +1,2 @@
 # OSCUnity
-A Unity3D project communication with SuperCollider through OSC
+A Unity3D project communicating with SuperCollider through OSC
